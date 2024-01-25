@@ -6,7 +6,7 @@ package javaapplication4;
 
 /**
  *
- * @author S570350
+ * @author S570350 Sargari Nikilesh Reddy
  */
 public class HelloWorld {
     public static void main(String[] args){
